@@ -2,6 +2,18 @@
   <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM0MTY2MTcsIm5iZiI6MTczMzQxNjMxNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDE2MzE1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiMDFkZTY0MDk5OTRmZjhlNzQyYjc1YTg1NGNiNjA0NmQwYTNjNGY3ODJkMGIxYWZlZGQ4Mzc4MDVlY2Y1ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S9mSibs_EYA3xITQuGBJOVf9gWDb2x29p3k_zsk4LnM"  />
 </div>
 
+# João Victor Gadelha  
+
+Sou um estudante e desenvolvedor em formação. Meus projetos são idealizados e desenvolvidos com foco em resolver problemas reais, passando por todas as etapas, desde o planejamento e design até a implementação e entrega de soluções funcionais.  
+
+Além disso, compartilho meu progresso e aprendizados através de projetos pessoais no GitHub, que demonstram minha paixão por tecnologia e meu compromisso com o crescimento contínuo como desenvolvedor.  
+
+### 🚀 Tecnologias e Áreas de Interesse  
+- Desenvolvimento backend com **Java** e **Spring Boot**  
+- Construção de interfaces modernas e performáticas com **Next.js**  
+- Estruturação e gerenciamento de bancos de dados relacionais como **PostgreSQL** e **MySQL**  
+- Desenvolvimento mobile com **Kotlin** e ferramentas de deploy como **Docker**  
+
 ###
 <div align="center">
   <!-- LinkedIn -->
