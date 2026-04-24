@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Banner Data Engineering" />
+  <img width="800" height="300" alt="ezgif-8c20b2cebd0a31b2" src="https://github.com/user-attachments/assets/f13337a9-5071-4654-80e2-193a088c31cc" alt="Banner Data Engineering" />
 </div>
 
 # 📊 Analista & Engenheiro de Dados
