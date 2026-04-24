@@ -1,28 +1,29 @@
 <div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM0MTY2MTcsIm5iZiI6MTczMzQxNjMxNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDE2MzE1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiMDFkZTY0MDk5OTRmZjhlNzQyYjc1YTg1NGNiNjA0NmQwYTNjNGY3ODJkMGIxYWZlZGQ4Mzc4MDVlY2Y1ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S9mSibs_EYA3xITQuGBJOVf9gWDb2x29p3k_zsk4LnM"  />
+  <img height="200" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop" alt="Banner Data Engineering" />
 </div>
 
-# 💻 Desenvolvedor Web
+# 📊 Analista & Engenheiro de Dados
 
-Sou um estudante e desenvolvedor em formação. Meus projetos são idealizados e desenvolvidos com foco em resolver problemas reais, passando por todas as etapas, desde o planejamento e design até a implementação e entrega de soluções funcionais.  
+Atuo como Analista focado no ecossistema de dados. Meu trabalho consiste em resolver problemas complexos de negócios através da construção de pipelines eficientes, escaláveis e robustos, garantindo que a informação chegue com qualidade para a tomada de decisão estratégica.  
 
-Além disso, compartilho meu progresso e aprendizados através de projetos pessoais no GitHub, que demonstram minha paixão por tecnologia e meu compromisso com o crescimento contínuo como desenvolvedor.  
+Compartilho neste espaço soluções e arquiteturas desenvolvidas para a área de dados, unindo minha forte base técnica em desenvolvimento e infraestrutura com as melhores práticas de modelagem e processamento.  
 
-### 🚀 Tecnologias e Áreas de Interesse  
-- Desenvolvimento backend com **Java** e **Spring Boot**  
-- Construção de interfaces modernas e performáticas com **Next.js**  
-- Estruturação e gerenciamento de bancos de dados relacionais como **PostgreSQL** e **MySQL**  
-- Desenvolvimento mobile com **Kotlin** e ferramentas de deploy como **Docker**  
+### 🚀 Tecnologias e Áreas de Domínio  
+- Desenvolvimento de automações e pipelines de dados robustos utilizando **Python**.  
+- Estruturação, modelagem e otimização de bancos de dados relacionais, NoSQL e analíticos (**PostgreSQL, Oracle DB, DuckDB**).  
+- Processamento e análise de dados com **Pandas** e criação de APIs de alta performance com **FastAPI**.  
+- Infraestrutura, virtualização e gestão de ambientes modernos com **Docker**, **Linux** e **uv**.  
 
 ###
 <div align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/victorgadelha/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
-  <!-- Instagram -->
   <a href="https://www.instagram.com/jovituuu/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="email logo" />
   </a>
 </div>
 
@@ -32,67 +33,67 @@ Além disso, compartilho meu progresso e aprendizados através de projetos pesso
 
 ###
 
-<h2 align="left">Frontend</h2>
+<h2 align="left">Linguagens de Programação</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h2 align="left">Backend</h2>
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
 ###
 
-<h2 align="left">Banco de Dados</h2>
+<h2 align="left">Frameworks e Bibliotecas</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
 </div>
 
 ###
 
-<h2 align="left">Infraestrutura</h2>
+<h2 align="left">Bancos de Dados</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/duckdb/FFF000" height="40" alt="duckdb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h2 align="left">Engenharia & Infraestrutura</h2>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/uv/white" height="40" alt="uv logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorgadelha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgadelha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=victorgadelha&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgadelha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
